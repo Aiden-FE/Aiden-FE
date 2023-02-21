@@ -1,16 +1,43 @@
 ### Hi there 👋
 
-<!--
-**Aiden-FE/Aiden-FE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Aiden, a web developer, i like code, thanks for reading.
 
-Here are some ideas to get you started:
+### Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <img src="https://img.shields.io/badge/HTML5-orange" />
+  <img src="https://img.shields.io/badge/CSS3-brightgreen" />
+  <img src="https://img.shields.io/badge/Javascript-lightgrey" />
+  <img src="https://img.shields.io/badge/Typescript-blue" />
+</div>
+
+<div>
+  <img src="https://img.shields.io/badge/Vue-66C874" />
+  <img src="https://img.shields.io/badge/Angular-C4002F" />
+  <img src="https://img.shields.io/badge/Nestjs-EA2845" />
+  <img src="https://img.shields.io/badge/Scss-CC6599" />
+  <img src="https://img.shields.io/badge/Node-036D02" />
+</div>
+
+<div>
+  <img src="https://img.shields.io/badge/RxJS-ED0D8E" />
+  <img src="https://img.shields.io/badge/Rollup-FF3333" />
+  <img src="https://img.shields.io/badge/Docker-2596EC" />
+  <img src="https://img.shields.io/badge/Nginx-009900" />
+  <img src="https://img.shields.io/badge/Prisma-333D4D" />
+  <img src="https://img.shields.io/badge/UniApp-2A9939" />
+</div>
+
+<div>
+  <img src="https://img.shields.io/badge/Webpack-76AECB" />
+  <img src="https://img.shields.io/badge/React-61DAFB" />
+  <img src="https://img.shields.io/badge/Electron-9FEBF9" />
+  <img src="https://img.shields.io/badge/Go-64CCD8" />
+</div>
+
+### More
+
+* [compass-commander](https://github.com/Aiden-FE/compass-commander)
+* [compass-locker](https://github.com/Aiden-FE/compass-locker)
+
+[More repositories](https://github.com/Aiden-FE?tab=repositories)
