@@ -35,6 +35,12 @@ I'm Aiden, a web developer, i like code, thanks for reading.
   <img src="https://img.shields.io/badge/Go-64CCD8" />
 </div>
 
+### GitHub analytics
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aiden-FE&hide=contribs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aiden-FE&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ### More
 
 * [compass-commander](https://github.com/Aiden-FE/compass-commander)
