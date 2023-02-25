@@ -43,11 +43,11 @@ I'm Aiden, a web developer, i like code, thanks for reading.
 
 ### Repositories
 
-* [compass-commander](https://github.com/Aiden-FE/compass-commander)
-* [compass-locker](https://github.com/Aiden-FE/compass-locker)
-* [compass-template](https://github.com/Aiden-FE/compass-template)
-* [compass-eslint](https://github.com/Aiden-FE/compass-eslint)
-* [compass-utils](https://github.com/Aiden-FE/compass-utils)
-* [compass-styles](https://github.com/Aiden-FE/compass-styles)
+* [compass-commander](https://github.com/Aiden-FE/compass-commander) Commander repository.
+* [compass-locker](https://github.com/Aiden-FE/compass-locker) Data storage management tools.
+* [compass-template](https://github.com/Aiden-FE/compass-template) Template repository.
+* [compass-eslint](https://github.com/Aiden-FE/compass-eslint) EsLint plugins.
+* [compass-utils](https://github.com/Aiden-FE/compass-utils) Tools repository.
+* [compass-styles](https://github.com/Aiden-FE/compass-styles) Abstract css repository.
 
 [More repositories](https://github.com/Aiden-FE?tab=repositories)
