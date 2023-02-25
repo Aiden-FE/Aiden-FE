@@ -41,9 +41,13 @@ I'm Aiden, a web developer, i like code, thanks for reading.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aiden-FE&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### More
+### Repositories
 
 * [compass-commander](https://github.com/Aiden-FE/compass-commander)
 * [compass-locker](https://github.com/Aiden-FE/compass-locker)
+* [compass-template](https://github.com/Aiden-FE/compass-template)
+* [compass-eslint](https://github.com/Aiden-FE/compass-eslint)
+* [compass-utils](https://github.com/Aiden-FE/compass-utils)
+* [compass-styles](https://github.com/Aiden-FE/compass-styles)
 
 [More repositories](https://github.com/Aiden-FE?tab=repositories)
