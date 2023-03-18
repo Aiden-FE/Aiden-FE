@@ -44,6 +44,7 @@ I'm Aiden, a web developer, i like code, thanks for reading.
 ### Repositories
 
 * [compass-commander](https://github.com/Aiden-FE/compass-commander) Commander repository.
+* [compass-chatgpt](https://github.com/Aiden-FE/compass-chatgpt) Chat AI repository.
 * [compass-locker](https://github.com/Aiden-FE/compass-locker) Data storage management tools.
 * [compass-template](https://github.com/Aiden-FE/compass-template) Template repository.
 * [compass-telegram](https://github.com/Aiden-FE/compass-telegram) Http client repository.
