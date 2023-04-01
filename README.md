@@ -43,6 +43,7 @@ I'm Aiden, a web developer, i like code, thanks for reading.
 
 ### Repositories
 
+* [compass-service](https://github.com/Aiden-FE/compass-service) Nestjs backend service.
 * [compass-commander](https://github.com/Aiden-FE/compass-commander) Commander repository.
 * [compass-chatgpt](https://github.com/Aiden-FE/compass-chatgpt) Chat AI repository.
 * [compass-locker](https://github.com/Aiden-FE/compass-locker) Data storage management tools.
