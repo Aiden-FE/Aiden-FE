@@ -37,9 +37,14 @@ I'm Aiden, a web developer, i like code, thanks for reading.
 
 ### GitHub analytics
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aiden-FE&hide=contribs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+| .                                                                                                                                       | .                                                                                                                         |
+|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aiden-FE&hide=contribs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aiden-FE&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) |
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aiden-FE&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center"> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aiden-FE"></img>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aiden-FE" alt="Aiden-FE" /></a>
+</p>
 
 ### Repositories
 
