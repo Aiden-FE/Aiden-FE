@@ -48,6 +48,7 @@ I'm Aiden, a web developer, i like code, thanks for reading.
 
 ### Repositories
 
+* [visualization-website-build](https://github.com/Aiden-FE/compass-visualization-website-build) Visual station building system.
 * [compass-service](https://github.com/Aiden-FE/compass-service) Nestjs backend service.
 * [compass-commander](https://aiden-fe.github.io/compass-artifact/en/commander/) Commander repository.
 * [compass-eslint](https://aiden-fe.github.io/compass-artifact/en/eslint-config/) EsLint plugins.
