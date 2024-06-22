@@ -46,16 +46,3 @@ I'm Aiden, a web developer, i like code, thanks for reading.
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aiden-FE" alt="Aiden-FE" /></a>
 </p>
 
-### Repositories
-
-* [visualization-website-build](https://github.com/Aiden-FE/compass-visualization-website-build) Visual station building system.
-* [compass-service](https://github.com/Aiden-FE/compass-service) Nestjs backend service.
-* [compass-telegram](https://github.com/Aiden-FE/compass-telegram) Http client repository.
-* [compass-commander](https://aiden-fe.github.io/compass-artifact/en/commander/) Commander repository.
-* [compass-eslint](https://aiden-fe.github.io/compass-artifact/en/eslint-config/) EsLint plugins.
-* [compass-utils](https://aiden-fe.github.io/compass-artifact/en/utils/) Tools repository.
-* [compass-locker](https://github.com/Aiden-FE/compass-locker) Data storage management tools.
-* [compass-styles](https://aiden-fe.github.io/compass-artifact/en/styles/) Abstract css repository.
-* [compass-template](https://github.com/Aiden-FE/compass-template) Template repository.
-
-[More repositories](https://github.com/Aiden-FE?tab=repositories)
