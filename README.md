@@ -28,10 +28,10 @@ I'm Aiden, a web developer, i like code, thanks for reading.
   <img src="https://img.shields.io/badge/Rollup-FF3333" />
   <img src="https://img.shields.io/badge/Docker-2596EC" />
   <img src="https://img.shields.io/badge/Nginx-009900" />
-  <img src="https://img.shields.io/badge/Prisma-333D4D" />
 </div>
 
 <div>
+  <img src="https://img.shields.io/badge/SQL-3E6E93" />
   <img src="https://img.shields.io/badge/Go-64CCD8" />
 </div>
 
